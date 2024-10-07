@@ -6,3 +6,6 @@ import os
 import shutil
 import random
 ```
+- os: Used for file and directory operations.
+- shutil: Used for high-level file operations like copying.
+- random: Used to shuffle the list of files for randomized splitting.
