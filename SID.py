@@ -3,8 +3,8 @@ import shutil
 import random
 
 # Example usage:
-input_folder = r'C:\'  # Replace with your input folder path
-output_folder = r'C:\'  # Replace with your output folder path
+input_folder = r'C:\Input\'  # Replace with your input folder path
+output_folder = r'C:\Output'  # Replace with your output folder path
 
 
 def split_data(input_folder, output_folder, train_split=0.7):
