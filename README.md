@@ -114,3 +114,10 @@ These lines set up the input and output folder paths and call the `split_data` f
 ## Summary
 
 This script automates the process of splitting a dataset into training and validation sets, maintaining the original folder structure. It's particularly useful for image classification tasks where data is organized into subfolders by class. The script ensures a random split of data, which is important for creating representative training and validation sets.
+
+<div align="center">
+  <a href="https://maazsalman.org/">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+  </a>
+  <p> Explore More! 🚀</p>
+</div>
